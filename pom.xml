@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.travelbnbtest</groupId>
-	<artifactId>travelbnbtest</artifactId>
+	<artifactId>AirBnB</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>travelbnbtest</name>
 	<description>Travel &amp; Tourism</description>
